@@ -1,0 +1,15 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+header h1{
+    border: 10px;
+    border-radius: 20px;
+   }
+   main{
+       background-color: purple;
+   }
+
+   header{
+      background-color: royalblue;
+   }
