@@ -6,10 +6,28 @@ header h1{
     border: 10px;
     border-radius: 20px;
    }
-   main{
-       background-color: gray;
+main{
+       background-color: khaki;
    }
 
-   header{
-      background-color: purpel;
+header{
+      background-color: rgb(101, 241, 188)
    }
+.pon1{
+       display: flex;
+       justify-content: center;
+   }
+.info{
+    display: flex;
+    justify-content: center;
+}
+.produkt1{
+    display: flex;
+    justify-content: center;
+}
+.produkt2{
+    display: flex;
+    justify-content: center;
+}
+
+
